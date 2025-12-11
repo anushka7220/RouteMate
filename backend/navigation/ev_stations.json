@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Statiq EV Charging Station - GreenFields Faridabad",
+    "lat": 28.352087,
+    "lon": 77.307556,
+    "address": "Greenfields Colony, Sector 43, Faridabad",
+    "network": "Statiq"
+  },
+  {
+    "name": "Tata Power EZ Charge - Sector 16 Faridabad",
+    "lat": 28.403905,
+    "lon": 77.313650,
+    "address": "Sector 16 Market, Faridabad",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Statiq Charger - Crown Interiorz Mall",
+    "lat": 28.408736,
+    "lon": 77.319853,
+    "address": "Crown Interiorz Mall, Mathura Road, Faridabad",
+    "network": "Statiq"
+  },
+  {
+    "name": "Statiq Charger - Sector 31 Faridabad",
+    "lat": 28.373960,
+    "lon": 77.317399,
+    "address": "Sector 31 Huda Market, Faridabad",
+    "network": "Statiq"
+  },
+  {
+    "name": "JBM EV Charging Station - Faridabad",
+    "lat": 28.338940,
+    "lon": 77.316803,
+    "address": "Sector 37, Faridabad",
+    "network": "JBM"
+  },
+  {
+    "name": "EV Charging Station - Sarai Metro Station",
+    "lat": 28.457253,
+    "lon": 77.307826,
+    "address": "Near Sarai Metro Station, Mathura Road",
+    "network": "DMRC"
+  },
+  {
+    "name": "Tata Power Charger - Badhkal Mor Faridabad",
+    "lat": 28.410874,
+    "lon": 77.301289,
+    "address": "Badhkal Mor, Faridabad",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Statiq EV Charger - Ballabhgarh",
+    "lat": 28.337509,
+    "lon": 77.312772,
+    "address": "Main Market, Ballabhgarh",
+    "network": "Statiq"
+  },
+  {
+    "name": "Jio-BP Pulse Charger - Ballabhgarh",
+    "lat": 28.321029,
+    "lon": 77.305187,
+    "address": "Mathura Road, Ballabhgarh",
+    "network": "Jio-BP"
+  },
+  {
+    "name": "Statiq Charging Station - Asaoti",
+    "lat": 28.263240,
+    "lon": 77.313502,
+    "address": "Near Asaoti Railway Station",
+    "network": "Statiq"
+  },
+  {
+    "name": "Tata Power Charging Station - Palwal",
+    "lat": 28.148970,
+    "lon": 77.329297,
+    "address": "Near Huda Colony, Palwal",
+    "network": "Tata Power"
+  },
+  {
+    "name": "ChargeZone EV Station - Palwal Bypass",
+    "lat": 28.132978,
+    "lon": 77.322174,
+    "address": "Near Palwal Bypass",
+    "network": "ChargeZone"
+  },
+  {
+    "name": "Statiq Charger - Palwal Bus Stand",
+    "lat": 28.139548,
+    "lon": 77.332740,
+    "address": "Palwal Bus Terminal",
+    "network": "Statiq"
+  },
+
+  {
+    "name": "Tata Power EZ Charge - South Ex Part 1",
+    "lat": 28.569160,
+    "lon": 77.224326,
+    "address": "South Extension Part 1, New Delhi",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Statiq EV Charger - Hauz Khas Village Parking",
+    "lat": 28.553655,
+    "lon": 77.193189,
+    "address": "HKV Parking Complex, Hauz Khas, New Delhi",
+    "network": "Statiq"
+  },
+  {
+    "name": "Jio-BP Pulse Charger - Delhi Aerocity",
+    "lat": 28.551218,
+    "lon": 77.123214,
+    "address": "Aerocity Hospitality District, IGI Airport",
+    "network": "Jio-BP"
+  },
+  {
+    "name": "ChargeZone EV Station - Select Citywalk Mall",
+    "lat": 28.528750,
+    "lon": 77.219061,
+    "address": "Select Citywalk, Saket, New Delhi",
+    "network": "ChargeZone"
+  },
+  {
+    "name": "Tata Power EZ Charge - Connaught Place",
+    "lat": 28.631452,
+    "lon": 77.216667,
+    "address": "Block A, Connaught Place, New Delhi",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Statiq Charging Station - New Friends Colony",
+    "lat": 28.559760,
+    "lon": 77.281820,
+    "address": "New Friends Colony, South Delhi",
+    "network": "Statiq"
+  },
+  {
+    "name": "Fortum Charge & Drive - Nehru Place Metro",
+    "lat": 28.550515,
+    "lon": 77.251889,
+    "address": "Nehru Place Metro Station Parking, New Delhi",
+    "network": "Fortum"
+  },
+  {
+    "name": "Tata Power Charger - AIIMS Metro Station",
+    "lat": 28.568300,
+    "lon": 77.210510,
+    "address": "AIIMS Metro, South Delhi",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Statiq Charger - Pacific Mall Subhash Nagar",
+    "lat": 28.641582,
+    "lon": 77.110252,
+    "address": "Pacific Mall, Subhash Nagar, West Delhi",
+    "network": "Statiq"
+  },
+  {
+    "name": "Tata Power EZ Charge - Rohini Sector 18",
+    "lat": 28.719910,
+    "lon": 77.101435,
+    "address": "Rohini Sector 18, North West Delhi",
+    "network": "Tata Power"
+  },
+  {
+    "name": "Jio-BP Pulse Charger - Dwarka Sector 21 Metro",
+    "lat": 28.551938,
+    "lon": 77.062388,
+    "address": "Dwarka Sector 21 Metro Station",
+    "network": "Jio-BP"
+  },
+  {
+    "name": "Statiq Charger - Mayur Vihar Phase 1",
+    "lat": 28.596560,
+    "lon": 77.294020,
+    "address": "Mayur Vihar Phase 1 Market, East Delhi",
+    "network": "Statiq"
+  },
+  {
+    "name": "ChargeZone EV Station - New Delhi Railway Station (Ajmeri Gate)",
+    "lat": 28.643398,
+    "lon": 77.222044,
+    "address": "Parking Area, Ajmeri Gate Side, New Delhi Railway Station",
+    "network": "ChargeZone"
+  },
+  {
+    "name": "Tata Power Charger - India Gate Parking",
+    "lat": 28.612912,
+    "lon": 77.229509,
+    "address": "Near Boat Club Parking, India Gate, New Delhi",
+    "network": "Tata Power"
+  }
+]
